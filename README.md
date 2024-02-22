@@ -19,5 +19,7 @@ I had difficulties because some boxes were not where they should be. By research
 ## Authors
 
 - [omegahokscode](https://github.com/omegahokscode)
-
+- [Landing page](https://omegahokscode.github.io/landing-page/)
 ![landingpage](https://github.com/omegahokscode/landing-page/assets/157544874/68e08bc7-7c06-4c9c-90cd-67af3af8360d)
+
+
